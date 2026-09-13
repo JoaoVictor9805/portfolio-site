@@ -1,4 +1,4 @@
-# Portfólio — João Victor Czech Oliveira
+# Portfólio — João Victor
 
 Site de portfólio pessoal, estático (HTML, CSS e JavaScript puro, sem frameworks ou build tools), com suporte bilíngue (Português / Inglês) e design inspirado na linguagem visual da Apple (seções zebradas, cards arredondados, tipografia limpa).
 
